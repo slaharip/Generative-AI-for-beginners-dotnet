@@ -1,4 +1,4 @@
-# ConsoleGpuViewer (nvsharptop)
+# ConsoleGpuViewer (Inspired on nvsharptop)
 
 GPT-5 Devs - GPU Viewer
 
