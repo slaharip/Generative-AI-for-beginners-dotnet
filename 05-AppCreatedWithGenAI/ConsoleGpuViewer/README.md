@@ -2,6 +2,10 @@
 
 GPT-5 Devs - GPU Viewer
 
+***Note:** This is based on the chat we had during the .NET & AI Community StandUp show with the author here (https://www.youtube.com/watch?v=ptdNWGj8CN8)
+The original GPU viewer is this one: https://github.com/tjwald/nvsharptop
+The full list of resources are here: https://learn.microsoft.com/en-us/collections/yjwzhet31ez28w*
+
 This small console app queries local NVIDIA GPUs via `nvidia-smi` and renders a live terminal UI using `Spectre.Console`.
 
 Quick start
